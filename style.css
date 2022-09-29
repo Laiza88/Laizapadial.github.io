@@ -1,0 +1,47 @@
+
+.foto-perfil {
+    height: 20%;
+    width: auto;
+    max-width: 20%;
+    border-radius: 30%;
+  }
+  .corPrimaria{
+    background-color: lightcoral;
+  }
+  .corSecundaria{
+    background-color: black;
+  }
+  p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black !important;
+  }
+  .icones{
+    padding-left: 6px;
+  }
+  .titulosBrancos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:white;
+  }
+  .titulosRosa{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:crimson;
+  }
+  .textoBranco{
+    color: white !important;
+  }
+  .textoFooter{
+    margin:0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
